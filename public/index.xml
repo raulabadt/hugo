@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raúl Abad</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Raúl Abad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2023 19:23:51 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aboutme</title>
+      <link>http://example.org/aboutme/aboutme/</link>
+      <pubDate>Tue, 10 Oct 2023 19:23:51 +0200</pubDate>
+      
+      <guid>http://example.org/aboutme/aboutme/</guid>
+      <description>Sobre mí Soy un apasionado de la creación y maquetación de páginas web, y tengo experiencia trabajando con diversos sistemas de gestión de contenidos (CMS) como Drupal, Wordpress, Laravel y node.js. Mi enfoque se centra en diseñar y desarrollar sitios web atractivos y funcionales para mis clientes.
+Experiencia Internacional Durante mi carrera, he tenido la oportunidad de trabajar en proyectos a nivel internacional. Esto me ha brindado la oportunidad de colaborar con clientes de todo el mundo y de utilizar el inglés como idioma de comunicación.</description>
+    </item>
+    
+    <item>
+      <title>Proyectos</title>
+      <link>http://example.org/proyectos/proyectos/</link>
+      <pubDate>Tue, 10 Oct 2023 19:23:35 +0200</pubDate>
+      
+      <guid>http://example.org/proyectos/proyectos/</guid>
+      <description>Organizaciones Internacionales Naciones Unidas  UN-DRR UN-NEWS  Comisión Europea  ERC - European Research Council ESMA-WEBST  </description>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>http://example.org/info/info/</link>
+      <pubDate>Tue, 10 Oct 2023 19:23:20 +0200</pubDate>
+      
+      <guid>http://example.org/info/info/</guid>
+      <description>CONTACTO  E-MAIL: raulabadtorralba@gmail.com TELF: 671 83 75 09 GITHUB: raulabadt  </description>
+    </item>
+    
+  </channel>
+</rss>

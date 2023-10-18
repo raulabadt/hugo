@@ -1,0 +1,32 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Raúl Abad'
+theme = 'hugo-theme-nix'
+
+[params]
+  Name = "Raúl Abad"
+  HeaderUsername = "Raul"
+  HeaderHostname = "Raul-PC"
+  About = "Hola me llamo Raúl soy programador FullStack, trabajo en una multinacional creando páginas webs para entidades internacionles usando la tecnología Drupal, en la cual se programa en Php-Symphony, css, html, plantillas yaml, ..."
+  ProfilePicture = "profile_picture_url"
+  Phone = "671 83 75 09"
+  Email = "raulabadtorralba@gmail.com"
+  LinkedInID = "https://www.linkedin.com/in/raul-abad-a5aa78164?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDM91TQYUQbCaFd1rWUNt5g%3D%3D"
+  CvURL = "https://raulabadt.github.io/Portafolios/"
+  GithubID = "https://github.com/raulabadt"
+
+
+
+[menu]
+  [[menu.header]]
+    name = "About me"
+    weight = 0
+    url = "/aboutme"
+  [[menu.header]]
+    name = "Proyectos"
+    weight = 1
+    url = "/proyectos"  
+  [[menu.header]]
+    name = "Info"
+    weight = "2"
+    url = "/info"  
